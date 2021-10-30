@@ -10,7 +10,8 @@
 ## Interests
 
  - Create a service that many users use
-   - Startup, Startup Company Foundation 
+   - Startup, Startup Company Foundation
+ - Meta Community System
  - Micro Service Cloud Native Architecture
  - Cloud Architecture Optimizing (Price, Performance, Automation)
  - Realtime Bigdata Handling
