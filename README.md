@@ -12,7 +12,7 @@
  - Create a service that many users use
    - Startup, Startup Company Foundation 
  - Micro Service Cloud Native Architecture
- - Cloud Architecture Optimizing (Price, Performance)
+ - Cloud Architecture Optimizing (Price, Performance, Automation)
  - Realtime Bigdata Handling
  - Reading World Masterpiece Novels
 
