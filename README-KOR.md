@@ -33,10 +33,17 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - [LLVM 요약](https://blog.naver.com/rollrat/221198005924)
  - [이미지 유사도 분석기](https://blog.naver.com/rollrat/221942105385)
  - [웹 크롤링. 정적 웹 페이지 분석](https://blog.naver.com/rollrat/221717318880)
- - 웹 크롤링. 동적 웹 페이지 분석 [1](https://blog.naver.com/rollrat/221905945071), [2](https://blog.naver.com/rollrat/221906735915), [3](https://blog.naver.com/rollrat/221908229380)
+ - 웹 크롤링. 동적 웹 페이지 분석 
+    - [Element Creation 루트 찾기](https://blog.naver.com/rollrat/221905945071)
+    - [동적요소랑 연결된 데이터 찾기(설계)](https://blog.naver.com/rollrat/221906735915)
+    - [동적요소랑 연결된 데이터 찾기(구현)](https://blog.naver.com/rollrat/221908229380)
  - JSon Parser 제작 [1](https://blog.naver.com/rollrat/221713831868), [2](https://blog.naver.com/rollrat/221714507357)
  - strlen 최적화 [1](https://blog.naver.com/rollrat/220547839447), [2](https://blog.naver.com/rollrat/221485261011)
  - [Bit 단위로 구현한 정수형](https://blog.naver.com/rollrat/220665429006)
+ - 스도쿠
+    - [스도쿠 Solver](https://blog.naver.com/rollrat/220466846958)
+    - [빠른 스도쿠 Solver](https://blog.naver.com/rollrat/220467970924)
+    - [스도쿠 생성기](https://blog.naver.com/rollrat/220468749712)
 
 ## Projects
 
@@ -68,6 +75,13 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
 
  - 컴파일러 컴파일러 (토커나이저, LALR파서) 구현
  - Link: https://github.com/rollrat/compiler-compiler
+
+#### [2015] Intercode Generator (c++)
+
+ - JIT, 런타임에 수식을 입력받아 어셈블리어로 컴파일하고 메모리에 로드하여 실행할 수 있는 도구
+ - Link1: https://github.com/rollrat/intercode-generator
+ - Link2: https://github.com/rollrat/old-library/tree/master/src/other/Lately/rtc
+ - Article: [효율적인 단문 명령처리를 위한 컴파일러형식의 구문분석 방법](https://blog.naver.com/rollrat/221722890631)
 
 #### [2020] jsonhead (c++)
 
