@@ -35,7 +35,8 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - [웹 크롤링. 정적 웹 페이지 분석](https://blog.naver.com/rollrat/221717318880)
  - 웹 크롤링. 동적 웹 페이지 분석 [1](https://blog.naver.com/rollrat/221905945071), [2](https://blog.naver.com/rollrat/221906735915), [3](https://blog.naver.com/rollrat/221908229380)
  - JSon Parser 제작 [1](https://blog.naver.com/rollrat/221713831868), [2](https://blog.naver.com/rollrat/221714507357)
- - strlne 최적화 [1](https://blog.naver.com/rollrat/220547839447), [2](https://blog.naver.com/rollrat/221485261011)
+ - strlen 최적화 [1](https://blog.naver.com/rollrat/220547839447), [2](https://blog.naver.com/rollrat/221485261011)
+ - [Bit 단위로 구현한 정수형](https://blog.naver.com/rollrat/220665429006)
 
 ## Projects
 
@@ -47,16 +48,16 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
 
 ### Toy Projects
 
-#### Fault Injector based on LLVM (c#)
+#### [2019] Fault Injector based on LLVM (c#)
 
  - Project Link: https://github.com/rollrat/llvm-fault-injector
  - Information: https://blog.naver.com/rollrat/221467365547
  
-#### Custom Crawler (c#)
+#### [2020] Custom Crawler (c#)
 
 #### Community Engine (typescript, js)
 
-#### Compiler Compiler (c#)
+#### [2019] Compiler Compiler (c#)
 
 #### jsonhead (c++)
 
@@ -82,6 +83,12 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
 ---
 
 ### Library
+
+#### [2016~2018] rollrat-framework (c++)
+ 
+ - String, BigInteger, Polynomial 등을 구현한 라이브러리
+ - Link1: https://github.com/rollrat/rollrat-framework-2
+ - Link2: https://github.com/rollrat/wstring-master
 
 #### download queue (c#)
 
