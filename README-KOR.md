@@ -13,16 +13,17 @@
 
  - Create a service that many users use
    - Startup, Startup Company Foundation
- - Meta Community System
+ - Meta Community System (Metaverse)
  - Micro Service Cloud Native Architecture
  - Cloud Architecture Optimizing (Price, Performance, Automation)
  - Realtime Bigdata Handling
+ - High ~ Assembly Level Code Optimizing
  - Reading World Masterpiece Novels
 
 ### Keywords
 
 `flutter`, `v8`, `node.js`, `c#`, `mysql`, `nosql(mongodb, redis)`, `fuzzing string search`, `image searching engine`, `code reverse tracing`,
-`docker(kubernates)`, `low pricing architecturing`
+`docker(kubernates)`, `low pricing architecturing`, `compiler`, `llvm`, 
 
 ## Web Sites
 
