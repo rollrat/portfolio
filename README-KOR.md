@@ -44,6 +44,7 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
     - [스도쿠 Solver](https://blog.naver.com/rollrat/220466846958)
     - [빠른 스도쿠 Solver](https://blog.naver.com/rollrat/220467970924)
     - [스도쿠 생성기](https://blog.naver.com/rollrat/220468749712)
+ - [Flutter에서 Python 실행하기](https://github.com/rollrat/run-python-on-flutter)
 
 ## Projects
 
