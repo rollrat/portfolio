@@ -11,6 +11,7 @@
 
 ### Highlight
 
+ - Computer Science
  - Create a service that many users use
    - Startup, Startup Company Foundation
  - Meta Community System (Metaverse)
