@@ -60,6 +60,10 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - 자유주제 토론 커뮤니티
  - Link: https://github.com/project-8971/free-debate
 
+#### [2021] dediary
+
+ - 망각일기
+
 ### Toy Projects
 
 #### [2019] Fault Injector based on LLVM (c++)
@@ -72,6 +76,11 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
 
  - 생산성있게 크롤러를 제작하기 위한 도구
  - Link: https://github.com/rollrat/custom-crawler
+
+#### [2020] Community Explorer (Flutter)
+
+ - 각종 커뮤니티를 구독하고 최신 게시글을 모아볼 수 있는 앱
+ - Link: https://github.com/rollrat/community-explorer
 
 #### [2021~] Community Engine (typescript, js)
 
