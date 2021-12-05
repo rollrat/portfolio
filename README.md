@@ -15,7 +15,7 @@
    - Startup, Startup Company Foundation
  - Meta Community System (Metaverse)
  - Micro Service Cloud Native Architecture
- - Cloud Architecture Optimizing (Price, Performance, Automation)
+ - Cloud Architecture Optimizing (Price, Performance, Automation, Orchestration)
  - Realtime Bigdata Handling
  - High ~ Assembly Level Code Optimizing
  - Reading World Masterpiece Novels
