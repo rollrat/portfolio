@@ -2,7 +2,7 @@
 
 ## Experience
 
- - Inha University. Computer Science Engineering: 2016 ~ 2023
+ - Inha University. Computer Science Engineering: 2017 ~ 2023
    - High Performance Computing Lab (~2019)
  - Software Maestro 9th (2018)
  - (2019.11 ~ 2021.05)
