@@ -92,6 +92,11 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - 컴파일러 컴파일러 (토커나이저, LALR파서) 구현
  - Link: https://github.com/rollrat/compiler-compiler
 
+#### [2022] ranked (c++)
+
+ - expired zincrby를 지원하는 redis like sorted set
+ - Link: https://github.com/rollrat/ranked
+
 #### [2015] Intercode Generator (c++)
 
  - JIT, 런타임에 수식을 입력받아 어셈블리어로 컴파일하고 메모리에 로드하여 실행할 수 있는 도구
