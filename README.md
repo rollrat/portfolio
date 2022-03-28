@@ -5,7 +5,7 @@
  - Inha University. Computer Science Engineering: 2017 ~ 2023
    - High Performance Computing Lab (~2019)
  - Software Maestro 9th (2018)
- - (2019.11 ~ 2021.05)
+ - Military Service (Army) (2020.11 ~ 2022.03)
 
 ## Interests
 
@@ -24,7 +24,7 @@
 ### Keywords
 
 `flutter`, `v8`, `node.js`, `c#`, `mysql`, `nosql(mongodb, redis)`, `fuzzing string search`, `image searching engine`, `code reverse tracing`,
-`docker(kubernates)`, `low pricing architecturing`, `compiler`, `llvm`, 
+`docker(kubernates)`, `low pricing architecturing`, `compiler`, `llvm`, `html/css/react`
 
 ## Web Sites
 
