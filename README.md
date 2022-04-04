@@ -182,6 +182,7 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  * 제목 및 내용 검색 기능 구현
    - Trie, Aho Corasick 트리를 이용한 실시간 병렬 검색/탐색 기능 구현 (https://github.com/rollrat/gallery-explorer/blob/master/Img/s5.gif)
    - 게시물 검색을 위한 Auto Complete 기능 구현 (일반 매칭 검색, 퍼지 매칭 검색)
+ * Vp Tree 및 OpenCV 이미지 해싱 기능, 파일 Crc32, Cosine Distance를 이용한 이미지 유사도 분석기 기능 구현 (https://blog.naver.com/rollrat/221942105385)
 ```
 
 #### [2019] Process packet filtering machine (c++)
