@@ -75,11 +75,28 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - 바이너리에 소프트웨어 Fault를 주입할 수 있는 도구
  - Project Link: https://github.com/rollrat/llvm-fault-injector
  - Information: https://blog.naver.com/rollrat/221467365547
+
+```
+ * LLVM 소스코드 사용
+ * 프로시저간 변수 의존성 검사, 함수 파라미터간 의존성 검사, 함수 반환값과 함수 인자간 의존성 검사, 브랜치 의존성 검사 Pass 구현
+ * 컴파일된 후 프로그램의 Machine Instruction의 어떤 부분이 Fault Injection에 사용되는지 마킹함
+```
  
 #### [2020] Custom Crawler (c#)
 
  - 생산성있게 크롤러를 제작하기 위한 도구
  - Link: https://github.com/rollrat/custom-crawler
+ - Concept: https://github.com/rollrat/custom-crawler/blob/master/CONCEPT.md
+
+```
+ * Cef 및 ChromeDevTools를 이용하여 구현
+ * HTML XPath를 통한 정적 HTML 분석 도구 구현
+   - LCA를 이용한 공통 노드 분석
+   - Edit Dist를 이용한 노드 패턴 분석
+ * HTML 동적 분석 도구 구현
+   - Element 생성 루트 찾기 (https://blog.naver.com/rollrat/221905945071)
+   - 동적 요소랑 연결된 요청 데이터 찾기 (https://blog.naver.com/rollrat/221908229380)
+```
 
 #### [2020] Community Explorer (Flutter)
 
@@ -96,10 +113,14 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - 컴파일러 컴파일러 (토커나이저, LALR파서) 구현
  - Link: https://github.com/rollrat/compiler-compiler
 
-#### [2022] ranked (c++)
-
- - expired zincrby를 지원하는 redis like sorted set
- - Link: https://github.com/rollrat/ranked
+```
+ * NFA to DFA, DFA Optimization, DFA Merge를 통한 Regex Matcher와 Scanner Generator 구현
+   - lex와 비싯한 REGEX 및 BNF 형식의 텍스트 입력 방법 제공
+   - 각 과정을 시각적으로 볼 수 있게 그래프를 Graphviz 코드로 변환하는 기능 구현
+ * SLR LR(0), LR(1), LALR 기반 Parser Generator 구현
+   - yacc와 비슷한 EBNF 형식의 텍스트 입력 방법 제공
+ * 범용 Shift Reduce Parser 및 Attributed 기능 구현
+```
 
 #### [2015] Intercode Generator (c++)
 
@@ -113,11 +134,30 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - json 파일 파싱 및 구조 분석
  - Link: https://github.com/rollrat/jsonhead
 
+```
+ * LALR 파서를 이용하여 파싱
+ * json 파일 구조 분석 후 C# 데이터 모델 클래스로 변환
+```
+
+#### [2022] ranked (c++)
+
+ - expired zincrby를 지원하는 redis like sorted set
+ - Link: https://github.com/rollrat/ranked
+
+```
+ * set, vector, priority_queue, timestamp 등을 이용하여 구현함
+```
+
 #### [2020] inha-alarmbot (c#)
 
  - 공지사항 알림 봇
  - Project Link: https://github.com/rollrat/inha-alarmbot
  - Information: https://blog.naver.com/rollrat/221852470704
+
+```
+ * Discord 및 Telegram 봇 사용
+ * 효율적인 크롤러 관리를 위한 학과 웹사이트 단위별 테스트 코드 작성
+```
 
 #### [2017~2018] inhaTT (c#)
 
@@ -126,10 +166,23 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - 수강신청 API (과목입력기능삭제)
  - Link2: https://github.com/rollrat/inha-sugang
 
+```
+ * Stack 두 개를 이용한 History 기능 구현
+ * DFS를 이용한 시간표 자동 생성도구 구현
+ * Everytime에 등록된 시간표를 자동으로 수강신청 장바구니에 등록
+```
+
 #### [2020] gallery explorer (c#)
 
  - 커뮤니티 게시글 및 댓글 전체를 저장하고 열람/검색할 수 있는 도구
  - Link: https://github.com/rollrat/gallery-explorer
+
+```
+ * 커뮤니티 웹 사이트 아카이빙 기능
+ * 제목 및 내용 검색 기능 구현
+   - Trie, Aho Corasick 트리를 이용한 실시간 검색 기능 구현 (https://github.com/rollrat/gallery-explorer/blob/master/Img/s5.gif)
+   - 게시물 검색을 위한 Auto Complete 기능 구현 (일반 매칭 검색, 퍼지 매칭 검색)
+```
 
 #### [2019] Process packet filtering machine (c++)
 
@@ -137,11 +190,23 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - Link: https://github.com/rollrat/process-packet-filter
  - Info: https://blog.naver.com/rollrat/221546185443
 
+```
+ * Windivert를 통한 TCP 패킷 하이재킹
+ * 패킷 포트를 통한 프로세스 아이디 찾기 구현
+ * 프로세스 아이디를 통한 프로세스 이름 찾기 구현
+```
+
 #### [2019] KakaoTalk-Analyzer (c#)
 
  - 카카오톡 채팅방의 메시지를 분석해주는 도구
  - Project Link: https://github.com/rollrat/KakaoTalk-Analyzer2
  - Information: https://blog.naver.com/rollrat/221627185108
+
+```
+ * TwitterKoreanProcessor의 형태소 분석기를 사용한 키워드 분석기 구현
+ * 멤버 별 활동 기록 및 키워드 분석
+ * 월별 키워드 순위 목록 제공
+```
 
 #### [2015~2017] Rollrat Renamer (VB.Net)
  
@@ -149,6 +214,11 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - Project Link: https://github.com/rollrat/file-renamer
  - Information: https://blog.naver.com/rollrat/220565572162
  - Manual: https://github.com/rollrat/file-renamer/releases/download/manual/RollRat.Rename.Tool.Manual.1.7.2.pdf 
+
+```
+ * 문자, 기호, 숫자 세 가지 유형의 세그먼트를 통한 효율적인 파일이름 변경 방법 제공
+ * 간단한 자체 문법을 이용한 파일 이름 변경 유연성 제공
+```
 
 ---
 
