@@ -52,17 +52,21 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
 
 ### Business Projects
 
-#### [2020] Feedback-Hub
-
 #### [2021] Mevy (Memoir)
+
+ - 사용자 정보추적 일기장
 
 #### [2021] Free Debate
 
- - 자유주제 토론 커뮤니티
+ - 자유주제 토론 커뮤니티 기획
 
-#### [2021] dediary
+#### [2022] Candy
 
- - 망각일기
+ - 리워드 기반 자유주제 토론 커뮤니티
+
+#### [2022] Auction
+
+ - 부동산 경매 정보제공 앱
 
 ### Toy Projects
 
@@ -144,7 +148,7 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  - 파일 이름을 일괄 변경할 수 있는 도구
  - Project Link: https://github.com/rollrat/file-renamer
  - Information: https://blog.naver.com/rollrat/220565572162
- - Manual: https://github.com/rollrat/file-renamer/releases/download/manual/RollRat.Rename.Tool.Manual.1.7.2.pdf
+ - Manual: https://github.com/rollrat/file-renamer/releases/download/manual/RollRat.Rename.Tool.Manual.1.7.2.pdf 
 
 ---
 
