@@ -62,7 +62,12 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
 
 #### [2022] Candy
 
- - 리워드 기반 자유주제 토론 커뮤니티
+ - 리워드 기반 자유주제 토론 커뮤니티 (풀스택 개발)
+
+```
+ * 프론트: react 사용
+ * 백엔드: typescript 사용
+```
 
 #### [2022] Auction
 
