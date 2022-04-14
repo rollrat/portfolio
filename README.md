@@ -103,16 +103,6 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
    - 동적 요소랑 연결된 요청 데이터 찾기 (https://blog.naver.com/rollrat/221908229380)
 ```
 
-#### [2020] Community Explorer (Flutter)
-
- - 각종 커뮤니티를 구독하고 최신 게시글을 모아볼 수 있는 앱
- - Link: https://github.com/rollrat/community-explorer
-
-#### [2021~] Community Engine (typescript, js)
-
- - 모바일 앱 내 구현에서 사용할 수 있는 확장가능한 커뮤니티 API 라이브러리
- - Link: https://github.com/rollrat/community-engine
-
 #### [2019] Compiler Compiler (c#)
 
  - 컴파일러 컴파일러 (토커나이저, LALR파서) 구현
@@ -126,6 +116,29 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
    - yacc와 비슷한 EBNF 형식의 텍스트 입력 방법 제공
  * 범용 Shift Reduce Parser 및 Attributed 기능 구현
 ```
+
+#### [2020] gallery explorer (c#)
+
+ - 커뮤니티 게시글 및 댓글 전체를 저장하고 열람/검색할 수 있는 도구
+ - Link: https://github.com/rollrat/gallery-explorer
+
+```
+ * 커뮤니티 웹 사이트 아카이빙 기능
+ * 제목 및 내용 검색 기능 구현
+   - Trie, Aho Corasick 트리를 이용한 실시간 병렬 검색/탐색 기능 구현 (https://github.com/rollrat/gallery-explorer/blob/master/Img/s5.gif)
+   - 게시물 검색을 위한 Auto Complete 기능 구현 (일반 매칭 검색, 퍼지 매칭 검색)
+ * Vp Tree 및 OpenCV 이미지 해싱 기능, 파일 Crc32, Cosine Distance를 이용한 이미지 유사도 분석기 기능 구현 (https://blog.naver.com/rollrat/221942105385)
+```
+
+#### [2020] Community Explorer (Flutter)
+
+ - 각종 커뮤니티를 구독하고 최신 게시글을 모아볼 수 있는 앱
+ - Link: https://github.com/rollrat/community-explorer
+
+#### [2021~] Community Engine (typescript, js)
+
+ - 모바일 앱 내 구현에서 사용할 수 있는 확장가능한 커뮤니티 API 라이브러리
+ - Link: https://github.com/rollrat/community-engine
 
 #### [2015] Intercode Generator (c++)
 
@@ -175,19 +188,6 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  * Stack 두 개를 이용한 History 기능 구현
  * DFS를 이용한 시간표 자동 생성도구 구현
  * Everytime에 등록된 시간표를 자동으로 수강신청 장바구니에 등록
-```
-
-#### [2020] gallery explorer (c#)
-
- - 커뮤니티 게시글 및 댓글 전체를 저장하고 열람/검색할 수 있는 도구
- - Link: https://github.com/rollrat/gallery-explorer
-
-```
- * 커뮤니티 웹 사이트 아카이빙 기능
- * 제목 및 내용 검색 기능 구현
-   - Trie, Aho Corasick 트리를 이용한 실시간 병렬 검색/탐색 기능 구현 (https://github.com/rollrat/gallery-explorer/blob/master/Img/s5.gif)
-   - 게시물 검색을 위한 Auto Complete 기능 구현 (일반 매칭 검색, 퍼지 매칭 검색)
- * Vp Tree 및 OpenCV 이미지 해싱 기능, 파일 Crc32, Cosine Distance를 이용한 이미지 유사도 분석기 기능 구현 (https://blog.naver.com/rollrat/221942105385)
 ```
 
 #### [2019] Process packet filtering machine (c++)
