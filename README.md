@@ -214,7 +214,7 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  * 월별 키워드 순위 목록 제공
 ```
 
-#### [2015~2017] Rollrat Renamer (VB.Net)
+#### [2015~2017] Rollrat Renamer (vb.net)
  
  - 파일 이름을 일괄 변경할 수 있는 도구
  - Project Link: https://github.com/rollrat/file-renamer
@@ -226,9 +226,39 @@ Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
  * 간단한 자체 문법을 이용한 파일 이름 변경 유연성 제공
 ```
 
+#### [2016] dc-crawler (vb.net)
+
+ - DCInside의 게시물을 크롤링하기 위한 도구
+ - Project Link: https://github.com/rollrat/dc-crawler
+
+#### [2012-2015] Hook Recorder (vb.net)
+
+ - 키보드, 마우스 매크로
+ - Project Link: https://github.com/rollrat/vb.net-work/tree/master/src/RollRat%20Hook%20Recorder
+ - Information: https://blog.naver.com/rollrat/220355655208
+ - Old-Information: https://blog.naver.com/rollrat/140174839072
+
+#### [2015] File Security (vb.net)
+
+ - AES 기반 파일 암호화 도구
+ - Project Link: https://github.com/rollrat/vb.net-work/tree/master/src/RollRat%20File%20Security
+ - Information: https://blog.naver.com/rollrat/220284695549
+
+#### [2009-2014] Memory Force Setter for Windows (c++)
+
+ - Nt API를 이용하여 메모리를 스캔하고 값을 수정할 수 있는 도구
+ - Project Link: https://github.com/rollrat/memory-force-setter
+
 ---
 
 ### Library
+
+#### [2015] hangul-typo (c, c++, vb.net)
+
+ - 영어 타자로 친 한글, 한글 타자로 친 영문을 상호 변환해주는 라이브러리
+ - 두 벌식, 세 벌식 지원
+ - Project Link: https://github.com/rollrat/hangul-typo
+ - Information: https://blog.naver.com/rollrat/220704335671
 
 #### [2016~2018] rollrat-framework (c++)
  
