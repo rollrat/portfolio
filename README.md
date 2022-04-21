@@ -30,7 +30,7 @@
 
 Naver Blog (2012 ~ currently): https://blog.naver.com/rollrat
 
-Notion: https://polydactyl-daughter-e9c.notion.site/rollrat-e16662aa94114901a867b1ccfd1528fe
+Notion: https://rollrat.notion.site/rollrat-e16662aa94114901a867b1ccfd1528fe
 
 ### Articles
 
