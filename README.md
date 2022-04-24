@@ -54,6 +54,10 @@ Notion: https://rollrat.notion.site/rollrat-e16662aa94114901a867b1ccfd1528fe
 
 ### Business Projects
 
+#### [2018] AR Tamagochi
+
+ - Unity 기반 AR게임의 백엔드 담당
+
 #### [2021] Mevy (Memoir)
 
  - 사용자 정보추적 일기장
